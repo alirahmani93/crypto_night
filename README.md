@@ -1,2 +1,2 @@
 # crypto_night
-funny
+Just for **FUN**
