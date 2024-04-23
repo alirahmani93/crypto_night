@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"storageFactory.sol": "StorageFactory"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"storageFactory.sol": {
+			"keccak256": "0x77e1f3609efb8e0d9435d39adc5c2df1ebcb014d78488a8d4c8f7c7715132412",
+			"urls": [
+				"bzz-raw://aa8e6a1027834618bc08bb7e9d9918d44b9ac544014d01d28ddafc56fd9ee248",
+				"dweb:/ipfs/QmUjzXTuvpcQ14x2BmLto67vrFW6bfbLxsv9HZ2TrW42A2"
+			]
+		}
+	},
+	"version": 1
+}
